@@ -4,6 +4,17 @@
         <name>DigitalTrackApi.Application</name>
     </assembly>
     <members>
+        <member name="T:DigitalTrackApi.Application.RunningAnalysisControl">
+            <summary>
+            跑道数据接口
+            </summary>
+        </member>
+        <member name="M:DigitalTrackApi.Application.RunningAnalysisControl.GetDescription">
+            <summary>
+            获取描述
+            </summary>
+            <returns></returns>
+        </member>
         <member name="T:DigitalTrackApi.Application.SystemAppService">
             <summary>
             系统服务接口
